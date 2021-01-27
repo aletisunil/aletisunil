@@ -3,19 +3,19 @@
 <h3 align="center">𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 | 𝕋𝕖𝕔𝕙𝕟𝕠𝕡𝕙𝕚𝕝𝕖 | 𝔹𝕝𝕠𝕘𝕘𝕖𝕣</h3>
 <a href="https://sunilaleti.dev" target="_blank"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
-- 🔭 I’m currently working on <a href="https://aletisunil.github.io/waves/">Waves</a>
+- 🔭 <a href="https://aletisunil.github.io/waves/">Waves</a>
 - 👯 <a href="http://twittertweetanalyzer.herokuapp.com/" target="_blank">Twitter Sentiment Analyzer</a>
 
 - 🤝 A Chrome Extension to get stats about covid19 <a href="https://chrome.google.com/webstore/detail/covid19/mbngfbmenimfoejbpjpfkkbpkicnonah" target="_blank">Covid Extension</a>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently digging deep into **Machine Learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://sunilaleti.dev"  target="_blank">https://sunilaleti.dev</a>
 
 - 📝 I regularly write articles on <a href="https://dev.to/sunilaleti"  target="_blank">https://dev.to/sunilaleti</a>
 - 💬 Ask me about **Python, Web scraping, Automation, ML**
 
-- 📫 How to reach me **iam@sunilaleti.dev**
+- 📫 You can reach me through **iam@sunilaleti.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
