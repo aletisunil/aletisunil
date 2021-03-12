@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 𝗦𝘂𝗻𝗶𝗹 𝗔𝗹𝗲𝘁𝗶</h1>
+<h1 align="center">Hi, I'm 𝗦𝘂𝗻𝗶𝗹 𝗔𝗹𝗲𝘁𝗶</h1>
 <h3 align="center">𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 | 𝕋𝕖𝕔𝕙𝕟𝕠𝕡𝕙𝕚𝕝𝕖 | 𝔹𝕝𝕠𝕘𝕘𝕖𝕣</h3>
 <a href="https://sunilaleti.dev" target="_blank"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
