@@ -3,7 +3,7 @@
 <h3 align="center">𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 | 𝕋𝕖𝕔𝕙𝕟𝕠𝕡𝕙𝕚𝕝𝕖 | 𝔹𝕝𝕠𝕘𝕘𝕖𝕣</h3>
 <a href="https://sunilaleti.dev" target="_blank"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
-- 🔭 <a href="https://aletisunil.github.io/waves/">Waves</a>
+- 🔭 Video to Text Conversion
 - 👯 <a href="http://twittertweetanalyzer.herokuapp.com/" target="_blank">Twitter Sentiment Analyzer</a>
 
 - 🤝 A Chrome Extension to get stats about covid19 <a href="https://chrome.google.com/webstore/detail/covid19/mbngfbmenimfoejbpjpfkkbpkicnonah" target="_blank">Covid Extension</a>
